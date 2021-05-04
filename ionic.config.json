@@ -1,0 +1,7 @@
+{
+  "name": "ionic5-music-player",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
